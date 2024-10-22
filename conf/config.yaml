@@ -1,0 +1,6 @@
+# config.yaml
+num_students: 52 # number of students in class
+reviews_per_student: 6 # how many papers does each student review
+reviews_per_paper: 6 # how many times each paper is reviewed.
+folder_submissions: "../submissions" # folder where submissions are saved
+folder_assignments: "../assignments" # folder with distributed assignments
